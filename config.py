@@ -1,6 +1,6 @@
-customhost = "employee.cypzskkdc5dv.us-east-1.rds.amazonaws.com"
+customhost = "capstone2.cypzskkdc5dv.us-east-1.rds.amazonaws.com"
 customuser = "admin"
 custompass = "admin123"
-customdb = "employee"
+customdb = "capstone2"
 custombucket = "mysambucke"
 customregion = "us-east-1"
